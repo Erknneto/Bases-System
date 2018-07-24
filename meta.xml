@@ -1,0 +1,7 @@
+<meta>
+<info author="Erk" name="Bases System" version="1" type="script" />
+	<map src="map/base_system.map" dimension="0"></map>
+	<script src="bases.lua" type="server" />
+	<script src="marker.lua" type="server" />
+	<script src="gui.lua" type="client" cache="false" />
+</meta>

@@ -1,0 +1,19 @@
+ATENÇÃO:
+Para mudar a senha de alguma base, entre no arquivo 'gui.lua' e mude a senha que está entre aspas.
+
+ATENÇÃO:
+A senha deverá ficar entre aspas assim como os exemplos que estão lá.
+
+ATENÇÃO:
+É super recomendado para não alterar a senha padrão caso ninguém esteja usando a base para evitar ladrões.
+
+ATENÇÃO:
+Caso queria dar a base a alguém, apenas mude a senha no arquivo 'gui.lua' e dê para o jogador usar quando quiser entrar na base.
+
+SENHAS PADRÕES:
+Base #1 - "mtaevorust"
+Base #2 - "@negaopirocudo123"
+Base #3 - "@negaopirocudo123"
+Base #4 - "@negaopirocudo123"
+
+CRÉDITOS: Erknneto
